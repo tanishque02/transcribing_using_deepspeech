@@ -46,3 +46,4 @@ Since the deepspeech model is trained using tensorflow, it is required to run th
 ![transcribe](images/transcribe.png)
 
 3. Be patient because it is a computationally intensive task. Usually the time taken to transcribe is equivalent to the length of the video.
+![transcribed](images/transcribed.png)
