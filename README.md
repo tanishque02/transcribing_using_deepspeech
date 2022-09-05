@@ -47,3 +47,12 @@ Since the deepspeech model is trained using tensorflow, it is required to run th
 
 3. Be patient because it is a computationally intensive task. Usually the time taken to transcribe is equivalent to the length of the video.
 ![transcribed](images/transcribed.png)
+
+## Update
+## Getting an SRT output
+
+1. Open transcriber_(srt_output).ipynb
+2. Enter the link of the video you want to transcribe.
+![srt](images/srt.png)
+3. You'll get the srt file in your environment.
+![srtout](images/srtout.png)
